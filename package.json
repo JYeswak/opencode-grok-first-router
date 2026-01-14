@@ -1,6 +1,6 @@
 {
   "name": "opencode-grok-first-router",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatically route OpenCode tasks to optimal models - 90% FREE grok-code, 10% PREMIUM reasoning. Validated 76% cost savings with 10/10 correctness.",
   "main": "index.ts",
   "type": "module",
@@ -24,9 +24,6 @@
   "homepage": "https://github.com/JYeswak/opencode-grok-first-router#readme",
   "bugs": {
     "url": "https://github.com/JYeswak/opencode-grok-first-router/issues"
-  },
-  "peerDependencies": {
-    "opencode": ">=1.1.0"
   },
   "engines": {
     "node": ">=18.0.0"
